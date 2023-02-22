@@ -25,7 +25,7 @@
          rhow      = 1026.0_dbl_kind  ,&! density of seawater (kg/m^3)
          cp_air    = 1005.0_dbl_kind  ,&! specific heat of air (J/kg/K)
          ! (Briegleb JGR 97 11475-11485  July 1992)
-         emissivity= 0.95_dbl_kind    ,&! emissivity of snow and ice
+         emissivity= 0.985_dbl_kind    ,&! emissivity of snow and ice
 !echmod         emissivity= 0.985_dbl_kind    ,&! emissivity of snow and ice
          cp_ice    = 2106._dbl_kind   ,&! specific heat of fresh ice (J/kg/K)
          cp_ocn    = 4218._dbl_kind   ,&! specific heat of ocn    (J/kg/K)
